@@ -416,7 +416,7 @@ tr:hover .popup {
         border: none;
         position: absolute; /* Change to absolute to position it anywhere */
         left: -30px; 
-        top: 1200px; 
+        top: 1300px; 
         transform: translateY(-50%); /* Optional, to vertically center it */
         background: #100720;
         transition: 0.1s;
